@@ -42,3 +42,10 @@
 // alert(`Евро: ${grn * euro}`)
 // alert(`Долларов: ${grn * dollar}`)
 
+// alert(5**15) - степень
+
+// alert(Math.PI * r**2) дз площадь
+
+// 5120:820=6.24
+
+// Math.floor - округлить
